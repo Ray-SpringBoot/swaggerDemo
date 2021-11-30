@@ -1,0 +1,7 @@
+server:
+  port: 8012
+
+spring:
+  jackson:
+    date-format: yyyy-MM-dd
+    time-zone: GMT+8
